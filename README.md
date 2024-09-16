@@ -62,4 +62,8 @@ O principal objetivo nesse momento foi escrever um código pra pegar informaçõ
 - ChatGPT
 - Perplexity
 - Gemini AI
+
+# Apresentação
+
+Link: https://gamma.app/docs/Analise-de-Influenciadores-do-Instagram-para-a-Vans-o7npgjn2atk8spt
   
